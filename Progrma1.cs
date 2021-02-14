@@ -11,7 +11,7 @@ namespace Programa_1
 
             while (b > 0)
             {
-                Console.WriteLine("Numero Mayor a 0");
+                Console.WriteLine("Numero Mayor: a 0");
                 b = int.Parse(Console.ReadLine());
                 a = a + b;
                 Console.Clear();
